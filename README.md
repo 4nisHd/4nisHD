@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm a Computer Science Engineering Student at ENSI</h1>
+<h1 align="center">Hi, I'm an Engineering Student at ENSI specializing in Data Science & Computer Vision</h1>
 - 🔭 I’m currently working on a web app for various NLP tasks
 
 - 🌱 I’m currently learning **Transformers, NLP, Generative AI**
