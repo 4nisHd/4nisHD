@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Transformers, NLP, Generative AI**
 
+- 👯 I'm looking for help with **Frontend development**
+
 - 💬 Ask me about **Django, Tensorflow**
 
 - 📫 How to reach me **anis.benhouidi@ensi-uma.tn**
